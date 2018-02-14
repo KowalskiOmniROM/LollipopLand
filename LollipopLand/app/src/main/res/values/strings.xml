@@ -17,5 +17,5 @@
  */
 --><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Name of the status bar as seen in the applications info settings page. [CHAR LIMIT=12] -->
-    <string name="app_name">Lollipop Land</string>
+    <string name="app_name">L Land</string>
 </resources>
